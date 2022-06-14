@@ -1,1 +1,1 @@
-# Desktops
+C programming assignments 
